@@ -1,5 +1,8 @@
 # **GSearch**
 
+[![wakatime](https://wakatime.com/badge/user/51dfdeb9-1041-42fb-9208-3de488dcae61/project/e129c996-a946-4327-9399-c0c45a320b28.svg?style=flat-square)](https://wakatime.com/badge/user/51dfdeb9-1041-42fb-9208-3de488dcae61/project/e129c996-a946-4327-9399-c0c45a320b28)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/457a399c-478e-4319-bb62-1867954e989d/deploy-status)](https://app.netlify.com/sites/gsearch/deploys)
+
 A Google Search Clone made with React and Google Search API.
 [Live URL](https://gsearch.netlify.app/)
 
